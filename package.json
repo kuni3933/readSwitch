@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/kuni3933/readSwitch#readme",
   "dependencies": {
-    "rpio": "^2.4.2"
+    "pigpio": "^3.3.1"
   },
   "description": ""
 }
