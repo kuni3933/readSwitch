@@ -1,0 +1,24 @@
+{
+  "name": "readswitch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuni3933/readSwitch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuni3933/readSwitch/issues"
+  },
+  "homepage": "https://github.com/kuni3933/readSwitch#readme",
+  "dependencies": {
+    "rpi-gpio": "^2.1.7"
+  },
+  "devDependencies": {},
+  "description": ""
+}
